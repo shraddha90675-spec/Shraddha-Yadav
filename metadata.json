@@ -1,0 +1,6 @@
+{
+  "name": "CyberPortfolio",
+  "description": "Modern, fully responsive, hacker and cybersecurity themed developer portfolio with interactive terminal and Matrix background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
